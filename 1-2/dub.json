@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "vladimmi"
+    ],
+    "copyright": "Copyright © 2023, vladi",
+    "description": "Advent of Code, day 1, puzzle 2",
+    "license": "proprietary",
+    "name": "1-2",
+    "stringImportPaths": [
+        "data"
+    ],
+    "dflags-windows": ["-gc"]
+}
