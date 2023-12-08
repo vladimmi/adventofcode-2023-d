@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "vladimmi"
+    ],
+    "copyright": "Copyright © 2023, vladi",
+    "description": "Advent of Code, day 8, puzzle 2",
+    "license": "proprietary",
+    "name": "8-2",
+    "stringImportPaths": [
+        "data"
+    ],
+    "dflags-windows": ["-gc"]
+}
